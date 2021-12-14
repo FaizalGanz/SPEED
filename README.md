@@ -5,7 +5,7 @@
 ➪pkg install toilet                           
 ➪pkg install figlet                                 
 ➪pkg install git                                 
-➪git clone https://github.com/FaizalGanz/SPEED/blob/main/README.md                                          
+➪git clone git clone https://github.com/FaizalGanz/SPEED/new/main?readme=1                                          
 ➪ls                           
 ➪cd SPEED                        
 ➪sh SPEED.sh                              
