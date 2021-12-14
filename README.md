@@ -5,7 +5,7 @@ $pkg update && pkg upgrade
 $pkg install toilet                           
 $pkg install figlet                                 
 $pkg install git                                 
-$git clone git https://github.com/Y4D1/SPEED                                
+$git clone git clone https://github.com/FaizalGanz/SPEED.git                          
 $ls                           
 $cd SPEED                        
 $sh SPEED.sh                              
